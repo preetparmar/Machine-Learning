@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning  <img src="/Resources/AI.gif" width="40" height="35"/>
  
 In this repository you will find all the work which I have done in Machine Learning.
 I have structured the repository around the datasets, instead of machine learning topics. 
