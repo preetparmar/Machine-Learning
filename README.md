@@ -45,4 +45,4 @@ Please go through some of the concepts/techniques I have used
 - Learn Categorization algorithms and ways to evaluate the performance
 
 ### About me
-You can find my portfolio here {https://preetparmar.github.io/}
+You can find my portfolio here (My Portfolio) (https://preetparmar.github.io/)
