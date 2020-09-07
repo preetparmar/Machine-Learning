@@ -17,7 +17,8 @@ Please go through some of the concepts/techniques I have used
     - Encode the categorical values using `sklearn.preprocessing.OneHotEncoder`
 
 - __Data Preparation:__
-    - Split the dataset into Training and Test based on a column using `StratifiedShuffleSplit`
+    - Split the dataset, using `sklearn.model_selection.train_test_split`
+    - Split the dataset into Training and Test based on a column, using `sklearn.model_selection.StratifiedShuffleSplit`
 
 - __Data Transformation:__
     - Created numerical and categorical pipeline, using `skelarn.pipeline.Pipeline`
