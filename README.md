@@ -43,6 +43,12 @@ Please go through some of the concepts/techniques I have used
 ### Datasets used:
 - California House Prices
 
+### Libraries used:
+- sklearn
+- numpy
+- scipy
+- pandas
+
 ### Futue Updates:
 - I will now be working on MNIST dataset
 - Learn Categorization algorithms and ways to evaluate the performance
