@@ -8,6 +8,7 @@ Please go through some of the concepts/techniques I have used
 - __Initial Exploration:__
     - Basic statistical analysis for different features
     - Distribution for all the features
+    - Visualizing the data using `matplotlib`
 
 - __Data Cleansing:__
     - Impute the numerical values using `SimpleImputer`
@@ -44,5 +45,9 @@ Please go through some of the concepts/techniques I have used
 - I will now be working on MNIST dataset
 - Learn Categorization algorithms and ways to evaluate the performance
 
+### Note:
+I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). In my opinion, it is one of the best books I have come across for understand and learning Machine Learning, given you have some base knowledge and understanding about Python.
+
 ### About me
+I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 You can find my portfolio [here](https://preetparmar.github.io/)
