@@ -50,4 +50,5 @@ I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFl
 
 ### About me
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
+Also, look at my other repositories to see some of the projects I have worked on.
 You can find my portfolio [here](https://preetparmar.github.io/)
