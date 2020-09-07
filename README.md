@@ -11,28 +11,30 @@ Please go through some of the concepts/techniques I have used
     - Visualizing the data using `matplotlib`
 
 - __Data Cleansing:__
-    - Impute the numerical values using `SimpleImputer`
+    - Impute the numerical values using `sklearn.impute.SimpleImputer`
     - Add new features using my custom class, `addAdditionalAttributes`
-    - Scale the numerical values using `StandardScalar`
-    - Encode the categorical values using `OneHotEncoder`
+    - Scale the numerical values using `sklearn.preprocessing.StandardScalar`
+    - Encode the categorical values using `sklearn.preprocessing.OneHotEncoder`
+
+- __Data Preparation:__
+    - Split the dataset into Training and Test based on a column using `StratifiedShuffleSplit`
 
 - __Data Transformation:__
-    - Created numerical pipeline, combining all the numerical cleansing steps
-    - Created categorical pipeline
-    - Combined both the pipelines into one
+    - Created numerical and categorical pipeline, using `skelarn.pipeline.Pipeline`
+    - Combined both the pipelines into one, using `skelarn.compose.ColumnTransformer`
 
 - __Machine Learning Algorithms:__
-    - Linear Regression
-    - Decision Tree Regression
-    - Random Forest Regression
+    - Linear Regression, using `sklearn.linear_model_LinearRegression`
+    - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
+    - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
 
 - __Evaluation Methods:__
-    - Root Mean Square Error _RMSE_
-    - Cross-Validation
+    - Root Mean Square Error _RMSE_, using `sklearn.metrics.mean_squared_error`
+    - Cross-Validation, using `sklearn.model_selection.cross_val_score`
 
 - __Fine Tuning the Model:__
-    - Grid search
-    - Randomized Grid search
+    - Grid search, using `sklearn.model_selection.GridSearchCV`
+    - Randomized Grid search, using `sklearn.model_selection.RandomizedSearchCV`
 
 - __Additional Topics:__
     - Combined Data Cleansing, Tranformation, Machine Learning steps into a single pipeline
