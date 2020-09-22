@@ -1,7 +1,6 @@
 # Machine-Learning  <img src="/Resources/AI.gif" width="40" height="35"/>
  
 In this repository you will find all the work which I have done in Machine Learning.
-I have structured the repository around the datasets, instead of machine learning topics. 
 
 Please go through some of the concepts/techniques I have used
 
@@ -128,10 +127,8 @@ I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFl
 <br/>
 </details>
 
-<details><summary><b>About me</b></summary>
-
+<h4>About me</h4>
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 Also, look at my other repositories to see some of the projects I have worked on.
 You can find my portfolio [here](https://preetparmar.github.io/)
 <br/>
-</details>
