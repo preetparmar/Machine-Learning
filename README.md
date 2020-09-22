@@ -40,9 +40,17 @@ Please go through some of the concepts/techniques I have used
 </br>
 <details><summary><b><i>Simple Regression</i></b></summary>
 
-- Linear Regression, using `sklearn.linear_model_LinearRegression`
+- Linear Regression, using `sklearn.linear_model.LinearRegression`
 - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
 - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
+</details>
+
+<details><summary><b><i>Regularized Regression</i></b></summary>
+
+- Stochastic Gradient Descetn Regression, using `sklearn.linear_model.SGDRegressor`
+- Ridge Regression, using `sklearn.linear_model.Ridge`
+- Lasso Regression, using `sklearn.linear_model.Lasso`
+- Elastic Net Regression, using `sklearn.linear_model.ElasticNet`
 </details>
 
 <details><summary><b><i>Simple Classification</i></b></summary>
@@ -54,6 +62,12 @@ Please go through some of the concepts/techniques I have used
 - One versus One Classification, using `sklear.multicall.OneVsOneClassifier`
 - KNeighbors Classification, using `sklearn.neighbors.KNeighborsClassifier`
 </details>
+<br/>
+</details>
+
+<details><summary><b>Regularization Techniques</b></summary>
+
+- Early Stopping
 <br/>
 </details>
 
