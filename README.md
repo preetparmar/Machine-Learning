@@ -104,8 +104,7 @@ Please go through some of the concepts/techniques I have used
 I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). In my opinion, it is one of the best books I have come across for understand and learning Machine Learning, given you have some base knowledge and understanding about Python.
 </details>
 
-<!-- ### [About me](https://preetparmar.github.io/) -->
-<details><summary><h2>About me(https://preetparmar.github.io/)</h2></summary>
+<details><summary><h2>About me</h2></summary>
 
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 Also, look at my other repositories to see some of the projects I have worked on.
