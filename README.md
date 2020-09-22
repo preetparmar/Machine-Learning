@@ -110,6 +110,7 @@ Please go through some of the concepts/techniques I have used
 <details><summary><b>Libraries used</b></summary>
 
 - sklearn
+- matplot
 - numpy
 - scipy
 - pandas
