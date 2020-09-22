@@ -5,14 +5,14 @@ I have structured the repository around the datasets, instead of machine learnin
 
 Please go through some of the concepts/techniques I have used
 
-<Initial Exploration><h1>Initial Exploration</h1>
+<details><summary><h1>Initial Exploration</h1></summary>
     
 - Basic statistical analysis for different features
 - Distribution for all the features
 - Visualizing the data using `matplotlib`
-</Initial Exploration>
+</details>
 
-<details><summary><b>Data Cleansing</b></summary>
+<details><summary><h1>Data Cleansing</h1></summary>
 
 - Impute the numerical values using `sklearn.impute.SimpleImputer`
 - Add new features using my custom class, `addAdditionalAttributes`
@@ -20,28 +20,28 @@ Please go through some of the concepts/techniques I have used
 - Encode the categorical values using `sklearn.preprocessing.OneHotEncoder`
 </details>
 
-<details><summary><b>Data Preparation</b></summary>
+<details><summary><h1>Data Preparation</h1></summary>
 
 - Split the dataset, using `sklearn.model_selection.train_test_split`
 - Split the dataset into Training and Test based on a column, using `sklearn.model_selection.StratifiedShuffleSplit`
 </details>
 
-<details><summary><b>Data Transformation</b></summary>
+<details><summary><h1>Data Transformation</h1></summary>
 
 - Created numerical and categorical pipeline, using `skelarn.pipeline.Pipeline`
 - Combined both the pipelines into one, using `skelarn.compose.ColumnTransformer`
 </details>
 
-<details><summary><b>Machine Learning Algorithms</b></summary>
+<details><summary><h1>Machine Learning Algorithms</h1></summary>
 </br>
-<details><summary>Simple Regression</summary>
+<details><summary><h2>Simple Regression</h2></summary>
 
 - Linear Regression, using `sklearn.linear_model_LinearRegression`
 - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
 - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
 </details>
 
-<details><summary>Simple Classification</summary>
+<details><summary><h2>Simple Classification</h2></summary>
     
 - Binary, Multi Label and Multi Output Classifiers
 - Random Forest Classification, using `sklearn.ensemble.RandomForestClassifier`
@@ -53,7 +53,7 @@ Please go through some of the concepts/techniques I have used
 
 </details>
 
-<details><summary><b>Evaluation Methods</b></summary>
+<details><summary><h>Evaluation Methods</h></summary>
 
 - Root Mean Square Error _RMSE_, using `sklearn.metrics.mean_squared_error`
 - Cross-Validation, using `sklearn.model_selection.cross_val_score`
@@ -66,26 +66,26 @@ Please go through some of the concepts/techniques I have used
 - ROC AUC Score, using `sklearn.metrics.roc_auc_score`
 </details>
 
-<details><summary><b>Fine Tuning the Model</b></summary>
+<details><summary><h>Fine Tuning the Model</h></summary>
 
 - Grid search, using `sklearn.model_selection.GridSearchCV`
 - Randomized Grid search, using `sklearn.model_selection.RandomizedSearchCV`
 </details>
 
-<details><summary><b>Additional Topics</b></summary>
+<details><summary><h>Additional Topics</h></summary>
 
 - Combined Data Cleansing, Tranformation, Machine Learning steps into a single pipeline
 - Used Grid Search to fine tune the data cleansing steps
 </details>
 
-<details><summary><b>Datasets used</b></summary>
+<details><summary><h>Datasets used</h></summary>
 
 - California House Prices
 - MNIST Dataset
 - Titanic Dataset
 </details>
 
-<details><summary><b>Libraries used</b></summary>
+<details><summary><h>Libraries used</h></summary>
 
 - sklearn
 - numpy
@@ -93,18 +93,18 @@ Please go through some of the concepts/techniques I have used
 - pandas
 </details>
 
-<details><summary><b>Futue Updates</b></summary>
+<details><summary><h>Futue Updates</h></summary>
 
 - Will dive deeper into specific machine learning algorithms and learn out various hyperparameters
 </details>
 
-<details><summary><b>Note</b></summary>
+<details><summary><h>Note</h></summary>
 
 I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). In my opinion, it is one of the best books I have come across for understand and learning Machine Learning, given you have some base knowledge and understanding about Python.
 </details>
 
 <!-- ### [About me](https://preetparmar.github.io/) -->
-<details><summary><b>[About me](https://preetparmar.github.io/)</b></summary>
+<details><summary><h>[About me](https://preetparmar.github.io/)</h></summary>
 
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 Also, look at my other repositories to see some of the projects I have worked on.
