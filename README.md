@@ -35,14 +35,14 @@ Please go through some of the concepts/techniques I have used
 
 <details><summary><h1>Machine Learning Algorithms</h1></summary>
 </br>
-<details><summary><h2>Simple Regression</h2></summary>
+<details><summary><h4>Simple Regression</h4></summary>
 
 - Linear Regression, using `sklearn.linear_model_LinearRegression`
 - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
 - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
 </details>
 
-<details><summary><h2>Simple Classification</h2></summary>
+<details><summary><h4>Simple Classification</h4></summary>
     
 - Binary, Multi Label and Multi Output Classifiers
 - Random Forest Classification, using `sklearn.ensemble.RandomForestClassifier`
@@ -54,7 +54,7 @@ Please go through some of the concepts/techniques I have used
 
 </details>
 
-<details><summary><h>Evaluation Methods</h></summary>
+<details><summary><h1>Evaluation Methods</h1></summary>
 
 - Root Mean Square Error _RMSE_, using `sklearn.metrics.mean_squared_error`
 - Cross-Validation, using `sklearn.model_selection.cross_val_score`
@@ -67,26 +67,26 @@ Please go through some of the concepts/techniques I have used
 - ROC AUC Score, using `sklearn.metrics.roc_auc_score`
 </details>
 
-<details><summary><h>Fine Tuning the Model</h></summary>
+<details><summary><h1>Fine Tuning the Model</h1></summary>
 
 - Grid search, using `sklearn.model_selection.GridSearchCV`
 - Randomized Grid search, using `sklearn.model_selection.RandomizedSearchCV`
 </details>
 
-<details><summary><h>Additional Topics</h></summary>
+<details><summary><h1>Additional Topics</h1></summary>
 
 - Combined Data Cleansing, Tranformation, Machine Learning steps into a single pipeline
 - Used Grid Search to fine tune the data cleansing steps
 </details>
 
-<details><summary><h>Datasets used</h></summary>
+<details><summary><h1>Datasets used</h1></summary>
 
 - California House Prices
 - MNIST Dataset
 - Titanic Dataset
 </details>
 
-<details><summary><h>Libraries used</h></summary>
+<details><summary><h1>Libraries used</h1></summary>
 
 - sklearn
 - numpy
@@ -94,18 +94,18 @@ Please go through some of the concepts/techniques I have used
 - pandas
 </details>
 
-<details><summary><h>Futue Updates</h></summary>
+<details><summary><h1>Futue Updates</h1></summary>
 
 - Will dive deeper into specific machine learning algorithms and learn out various hyperparameters
 </details>
 
-<details><summary><h>Note</h></summary>
+<details><summary><h1>Note</h1></summary>
 
 I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/). In my opinion, it is one of the best books I have come across for understand and learning Machine Learning, given you have some base knowledge and understanding about Python.
 </details>
 
 <!-- ### [About me](https://preetparmar.github.io/) -->
-<details><summary><h>[About me](https://preetparmar.github.io/)</h></summary>
+<details><summary><h1>[About me](https://preetparmar.github.io/)</h1></summary>
 
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 Also, look at my other repositories to see some of the projects I have worked on.
