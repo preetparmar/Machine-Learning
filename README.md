@@ -35,14 +35,14 @@ Please go through some of the concepts/techniques I have used
 
 <details><summary><b>Machine Learning Algorithms</b></summary>
 </br>
-<details><summary><h4>Simple Regression</h4></summary>
+<details><summary><b><i>Simple Regression</i></b></summary>
 
 - Linear Regression, using `sklearn.linear_model_LinearRegression`
 - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
 - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
 </details>
 
-<details><summary><h4>Simple Classification</h4></summary>
+<details><summary><b><i>Simple Classification</i></b></summary>
     
 - Binary, Multi Label and Multi Output Classifiers
 - Random Forest Classification, using `sklearn.ensemble.RandomForestClassifier`
