@@ -25,6 +25,7 @@ Please go through some of the concepts/techniques I have used
 
 - Split the dataset, using `sklearn.model_selection.train_test_split`
 - Split the dataset into Training and Test based on a column, using `sklearn.model_selection.StratifiedShuffleSplit`
+- Created custom classes so that these can be easily inserted into the pipeline
 <br/>
 </details>
 
