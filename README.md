@@ -5,12 +5,12 @@ I have structured the repository around the datasets, instead of machine learnin
 
 Please go through some of the concepts/techniques I have used
 
-<details><h1>Initial Exploration</h1>
+<Initial Exploration><h1>Initial Exploration</h1>
     
 - Basic statistical analysis for different features
 - Distribution for all the features
 - Visualizing the data using `matplotlib`
-</details>
+</Initial Exploration>
 
 <details><summary><b>Data Cleansing</b></summary>
 
