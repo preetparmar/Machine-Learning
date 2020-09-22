@@ -5,7 +5,7 @@ I have structured the repository around the datasets, instead of machine learnin
 
 Please go through some of the concepts/techniques I have used
 
-<details><summary><b>Initial Exploration</b></summary>
+<details><summary># Initial Exploration</summary>
     
 - Basic statistical analysis for different features
 - Distribution for all the features
