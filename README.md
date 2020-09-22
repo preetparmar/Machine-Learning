@@ -5,10 +5,11 @@ I have structured the repository around the datasets, instead of machine learnin
 
 Please go through some of the concepts/techniques I have used
 
-- __Initial Exploration:__
+- <details><summary>__Initial Exploration:__</summary>
     - Basic statistical analysis for different features
     - Distribution for all the features
     - Visualizing the data using `matplotlib`
+</details>
 
 - __Data Cleansing:__
     - Impute the numerical values using `sklearn.impute.SimpleImputer`
