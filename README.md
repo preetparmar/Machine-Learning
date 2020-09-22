@@ -47,7 +47,7 @@ Please go through some of the concepts/techniques I have used
 
 <details><summary><b><i>Regularized Regression</i></b></summary>
 
-- Stochastic Gradient Descetn Regression, using `sklearn.linear_model.SGDRegressor`
+- Stochastic Gradient Descent Regression, using `sklearn.linear_model.SGDRegressor`
 - Ridge Regression, using `sklearn.linear_model.Ridge`
 - Lasso Regression, using `sklearn.linear_model.Lasso`
 - Elastic Net Regression, using `sklearn.linear_model.ElasticNet`
