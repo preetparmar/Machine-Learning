@@ -34,17 +34,23 @@ Please go through some of the concepts/techniques I have used
 
 <details><summary><b>Machine Learning Algorithms</b></summary>
 
-- __Regression__
-    - Linear Regression, using `sklearn.linear_model_LinearRegression`
-    - Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
-    - Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
-- __Classification__
-    - Binary, Multi Label and Multi Output Classifiers
-    - Random Forest Classification, using `sklearn.ensemble.RandomForestClassifier`
-    - SVC Classification, using `sklearn.svm.SVC`
-    - SGD Classification, using `sklearn.linear_model.SGDClassifier`
-    - One versus One Classification, using `sklear.multicall.OneVsOneClassifier`
-    - KNeighbors Classification, using `sklearn.neighbors.KNeighborsClassifier`
+<details><summary>Simple Regression</summary>
+
+- Linear Regression, using `sklearn.linear_model_LinearRegression`
+- Decision Tree Regression, using `sklearn.tree.DecisionTreeRegressor`
+- Random Forest Regression, using `sklearn.ensemble.RandomForestRegressor`
+</details>
+
+<details><summary>Simple Classification</summary>
+    
+- Binary, Multi Label and Multi Output Classifiers
+- Random Forest Classification, using `sklearn.ensemble.RandomForestClassifier`
+- SVC Classification, using `sklearn.svm.SVC`
+- SGD Classification, using `sklearn.linear_model.SGDClassifier`
+- One versus One Classification, using `sklear.multicall.OneVsOneClassifier`
+- KNeighbors Classification, using `sklearn.neighbors.KNeighborsClassifier`
+</details>
+
 </details>
 
 <details><summary><b>Evaluation Methods</b></summary>
