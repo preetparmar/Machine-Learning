@@ -105,7 +105,7 @@ I am following [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFl
 </details>
 
 <!-- ### [About me](https://preetparmar.github.io/) -->
-<details><summary><h2>[About me](https://preetparmar.github.io/)</h2></summary>
+<details><summary><h2>About me(https://preetparmar.github.io/)</h2></summary>
 
 I am a beginner in Machine Learning and always learning new things in python. Feel free to reach out with any suggestions, questions or just to say hi!
 Also, look at my other repositories to see some of the projects I have worked on.
