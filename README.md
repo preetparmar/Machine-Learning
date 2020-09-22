@@ -33,7 +33,7 @@ Please go through some of the concepts/techniques I have used
 </details>
 
 <details><summary><b>Machine Learning Algorithms</b></summary>
-
+</br>
 <details><summary>Simple Regression</summary>
 
 - Linear Regression, using `sklearn.linear_model_LinearRegression`
