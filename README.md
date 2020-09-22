@@ -10,6 +10,7 @@ Please go through some of the concepts/techniques I have used
 - Basic statistical analysis for different features
 - Distribution for all the features
 - Visualizing the data using `matplotlib`
+<br/>
 </details>
 
 <details><summary><h1>Data Cleansing</h1></summary>
